@@ -1,21 +1,3 @@
-Good catch adding the Tableau workbook and the dashboard screenshot — that was missing before. Here's a check of your structure:
-
-## File check
-
-| Folder/File | Status |
-|---|---|
-| `data/S&P+500+Stock+Prices+2014-...csv` | ✅ Present |
-| `docs/Change_Log.docx` | ✅ Present |
-| `docs/Documentation.docx` | ✅ Present |
-| `image/Dashboard.png` | ✅ Present |
-| `presentation/Stock_analysis_2014-2017.pptx` | ✅ Present |
-| `visualization/Data viz.twb` | ✅ Present (good addition — this lets others open your actual Tableau workbook) |
-| `LICENSE` | ✅ Present |
-| `README.md` | ✅ Present |
-
-**This is complete.** You don't need to add anything else. One small note: your folder is named `image` (singular) — that's fine, just make sure the README's image link matches the real folder name exactly (case-sensitive on GitHub).
-
-**On the license:** Apache 2.0 is normally meant for software/code, not datasets. Since the S&P 500 price data itself is not something you created (it's sourced from the market/public data), a license like **CC0** or **CC-BY** is more standard for the *data*, while Apache 2.0 fits code/scripts. Since you've already chosen Apache 2.0 and the data is in the public domain, it's not wrong to use it — just know that if someone asks "why Apache for a dataset," this is the reasoning to have ready. If you want, I can suggest CC0 wording instead — otherwise I'll keep Apache 2.0 as you chose.
 
 ## Updated README.md
 
