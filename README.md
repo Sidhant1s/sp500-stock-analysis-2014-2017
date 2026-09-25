@@ -35,7 +35,7 @@ Analysis of daily stock prices for S&P 500 companies from 2014 to 2017, aimed at
 
 ## Dashboard
 
-[Tableau Dashboard](image/Dashboard.png)
+![Tableau Dashboard](image/Dashboard.png)
 
 ## Key Findings
 
