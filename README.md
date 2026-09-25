@@ -1,7 +1,4 @@
 
-## Updated README.md
-
-```markdown
 # S&P 500 Stock Price Analysis (2014–2017)
 
 Analysis of daily stock prices for S&P 500 companies from 2014 to 2017, aimed at identifying which stocks perform best on price and which perform best on trading volume, including a year-wise breakdown.
@@ -72,4 +69,4 @@ This project is licensed under the Apache License 2.0 — see the [LICENSE](LICE
 ## Author
 
 Sidhant Negi
-```
+
